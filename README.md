@@ -14,8 +14,8 @@ Este proyecto es una prueba técnica que implementa **Domain-Driven Design (DDD)
 
 ### 1️⃣ **Clonar el Repositorio**
 ```sh
-git clone https://github.com/tuusuario/prueba-php-ddd.git
-cd prueba-php-ddd
+git clone https://github.com/OscarRoman1230/php-ddd-user.git
+cd php-ddd-user
 ```
 
 ### 2️⃣ **Configurar Variables de Entorno**
